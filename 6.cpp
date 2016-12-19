@@ -36,8 +36,8 @@ string convert(string text, int nRows) {
 	return ret;
 }
 
-int main() {
-	cout<<convert("abcdefghijklmnopqrstuvwxyz",1)<<endl;
-	system("Pause");
-	return 0;
-}
+//int main() {
+//	cout<<convert("abcdefghijklmnopqrstuvwxyz",1)<<endl;
+//	system("Pause");
+//	return 0;
+//}

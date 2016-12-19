@@ -6,7 +6,7 @@ using namespace std;
 
 #define INF 0x7FFFFFFF
 
-int glo = 0;
+int glo475 = 0;
 
 int findRadius(vector<int> &houses, vector<int> &heaters) {
 	sort(houses.begin(), houses.end());
@@ -25,10 +25,10 @@ int findRadius(vector<int> &houses, vector<int> &heaters) {
 	return radius;
 }
 
-int main() {
-	vector<int> houses = { 25921153, 510616708 }, heaters = { 771515668, 357571490, 44788124, 927702196, 952509530 };
-	glo = glo + houses.size();
-	cout << findRadius(houses,heaters) << endl;
-	system("Pause");
-	return 0;
-}
+//int main() {
+//	vector<int> houses = { 25921153, 510616708 }, heaters = { 771515668, 357571490, 44788124, 927702196, 952509530 };
+//	glo = glo + houses.size();
+//	cout << findRadius(houses,heaters) << endl;
+//	system("Pause");
+//	return 0;
+//}
