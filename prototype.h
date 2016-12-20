@@ -15,6 +15,7 @@ string convert(string text, int nRows); //6
 int findRadius(vector<int> &houses, vector<int> &heaters);  //475
 int totalQueens(int n); //52
 int guessNumber(int n); //374
+bool find132pattern(vector<int>& nums);  //456
 
 
 #endif //LEETCODE_PROTOTYPE_H
