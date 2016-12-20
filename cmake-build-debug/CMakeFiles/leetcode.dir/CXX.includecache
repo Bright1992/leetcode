@@ -15,6 +15,8 @@ vector
 -
 iostream
 -
+algorithm
+-
 
 /home/bright/leetcode/main.cpp
 prototype.h

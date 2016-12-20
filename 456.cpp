@@ -4,6 +4,7 @@
 
 #include <vector>
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
@@ -49,6 +50,25 @@ bool find132pattern(vector<int> &nums) {
         }
         if (rmax[i] < nums[i] && lmin[i] < nums[i] && rmax[i] > lmin[i])
             return true;
+    }
+    return false;
+}
+
+bool find132pattern_opt(vector<int> &nums){
+    int s=nums.size();
+    if(s<3) return false;
+    vector<int> mn(nums.begin(),nums.end());
+    for(int i=1;i<s;++i)    mn[i]=min(mn[i],mn[i-1]);
+    vector<int> dp(s,-1);
+    for(int i=1;i<s;++i){
+        int j=i-1;
+        while(j>=0&&nums[j]<=nums[i])
+            j=dp[j];
+        dp[i]=j;    //closest index larger than nums[i]
+    }
+    for(int i=2;i<s;++i){
+        int j=dp[i];
+        if(j>0&&nums[i]>mn[j-1])    return true;
     }
     return false;
 }
