@@ -17,6 +17,8 @@ int totalQueens(int n); //52
 int guessNumber(int n); //374
 bool find132pattern(vector<int>& nums);  //456
 bool find132pattern_opt(vector<int> &nums); //456 opt
+int lengthLongestPath(string input); //388
+int lengthLongestPath_opt(string input);    //388
 
 
 #endif //LEETCODE_PROTOTYPE_H

@@ -87,6 +87,9 @@
 		<Unit filename="/home/bright/leetcode/374.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/home/bright/leetcode/388.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/home/bright/leetcode/456.cpp">
 			<Option target="leetcode"/>
 		</Unit>

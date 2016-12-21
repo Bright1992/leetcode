@@ -150,6 +150,33 @@ leetcode/fast:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/374.cpp.s
 .PHONY : 374.cpp.s
 
+388.o: 388.cpp.o
+
+.PHONY : 388.o
+
+# target to build an object file
+388.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/388.cpp.o
+.PHONY : 388.cpp.o
+
+388.i: 388.cpp.i
+
+.PHONY : 388.i
+
+# target to preprocess a source file
+388.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/388.cpp.i
+.PHONY : 388.cpp.i
+
+388.s: 388.cpp.s
+
+.PHONY : 388.s
+
+# target to generate assembly for a file
+388.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/388.cpp.s
+.PHONY : 388.cpp.s
+
 456.o: 456.cpp.o
 
 .PHONY : 456.o
@@ -216,6 +243,9 @@ help:
 	@echo "... 374.o"
 	@echo "... 374.i"
 	@echo "... 374.s"
+	@echo "... 388.o"
+	@echo "... 388.i"
+	@echo "... 388.s"
 	@echo "... 456.o"
 	@echo "... 456.i"
 	@echo "... 456.s"
