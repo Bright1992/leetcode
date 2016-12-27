@@ -1,3 +1,3 @@
-/home/bright/leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/bright/leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bright/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir
+D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir
+D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

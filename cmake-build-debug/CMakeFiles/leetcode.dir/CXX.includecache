@@ -6,17 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/home/bright/leetcode/374.cpp
+D:/College/G1/coding/leetcode/229.cpp
+vector
+-
+
+D:/College/G1/coding/leetcode/264.cpp
+vector
+-
+
+D:/College/G1/coding/leetcode/329.cpp
+vector
+-
 iostream
 -
 
-/home/bright/leetcode/388.cpp
+D:/College/G1/coding/leetcode/374.cpp
+iostream
+-
+
+D:/College/G1/coding/leetcode/388.cpp
 vector
 -
 string
 -
 
-/home/bright/leetcode/456.cpp
+D:/College/G1/coding/leetcode/456.cpp
 vector
 -
 iostream
@@ -24,11 +38,11 @@ iostream
 algorithm
 -
 
-/home/bright/leetcode/main.cpp
+D:/College/G1/coding/leetcode/main.cpp
 prototype.h
-/home/bright/leetcode/prototype.h
+D:/College/G1/coding/leetcode/prototype.h
 
-/home/bright/leetcode/prototype.h
+D:/College/G1/coding/leetcode/prototype.h
 iostream
 -
 vector
