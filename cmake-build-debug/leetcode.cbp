@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/College/G1/coding/leetcode/126.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/College/G1/coding/leetcode/15.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="D:/College/G1/coding/leetcode/229.cpp">
 			<Option target="leetcode"/>
 		</Unit>
@@ -93,6 +99,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/College/G1/coding/leetcode/388.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="D:/College/G1/coding/leetcode/396.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="D:/College/G1/coding/leetcode/456.cpp">

@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+D:/College/G1/coding/leetcode/15.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+
 D:/College/G1/coding/leetcode/229.cpp
 vector
 -
@@ -28,6 +36,12 @@ D:/College/G1/coding/leetcode/388.cpp
 vector
 -
 string
+-
+
+D:/College/G1/coding/leetcode/396.cpp
+vector
+-
+iostream
 -
 
 D:/College/G1/coding/leetcode/456.cpp

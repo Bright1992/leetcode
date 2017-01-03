@@ -4,11 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/College/G1/coding/leetcode/126.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/126.cpp.obj"
+  "D:/College/G1/coding/leetcode/15.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/15.cpp.obj"
   "D:/College/G1/coding/leetcode/229.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/229.cpp.obj"
   "D:/College/G1/coding/leetcode/264.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/264.cpp.obj"
   "D:/College/G1/coding/leetcode/329.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/329.cpp.obj"
   "D:/College/G1/coding/leetcode/374.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/374.cpp.obj"
   "D:/College/G1/coding/leetcode/388.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/388.cpp.obj"
+  "D:/College/G1/coding/leetcode/396.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/396.cpp.obj"
   "D:/College/G1/coding/leetcode/456.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/456.cpp.obj"
   "D:/College/G1/coding/leetcode/main.cpp" "D:/College/G1/coding/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/main.cpp.obj"
   )

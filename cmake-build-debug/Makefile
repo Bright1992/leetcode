@@ -122,6 +122,60 @@ leetcode/fast:
 	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/build
 .PHONY : leetcode/fast
 
+126.obj: 126.cpp.obj
+
+.PHONY : 126.obj
+
+# target to build an object file
+126.cpp.obj:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/126.cpp.obj
+.PHONY : 126.cpp.obj
+
+126.i: 126.cpp.i
+
+.PHONY : 126.i
+
+# target to preprocess a source file
+126.cpp.i:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/126.cpp.i
+.PHONY : 126.cpp.i
+
+126.s: 126.cpp.s
+
+.PHONY : 126.s
+
+# target to generate assembly for a file
+126.cpp.s:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/126.cpp.s
+.PHONY : 126.cpp.s
+
+15.obj: 15.cpp.obj
+
+.PHONY : 15.obj
+
+# target to build an object file
+15.cpp.obj:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/15.cpp.obj
+.PHONY : 15.cpp.obj
+
+15.i: 15.cpp.i
+
+.PHONY : 15.i
+
+# target to preprocess a source file
+15.cpp.i:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/15.cpp.i
+.PHONY : 15.cpp.i
+
+15.s: 15.cpp.s
+
+.PHONY : 15.s
+
+# target to generate assembly for a file
+15.cpp.s:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/15.cpp.s
+.PHONY : 15.cpp.s
+
 229.obj: 229.cpp.obj
 
 .PHONY : 229.obj
@@ -257,6 +311,33 @@ leetcode/fast:
 	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/388.cpp.s
 .PHONY : 388.cpp.s
 
+396.obj: 396.cpp.obj
+
+.PHONY : 396.obj
+
+# target to build an object file
+396.cpp.obj:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/396.cpp.obj
+.PHONY : 396.cpp.obj
+
+396.i: 396.cpp.i
+
+.PHONY : 396.i
+
+# target to preprocess a source file
+396.cpp.i:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/396.cpp.i
+.PHONY : 396.cpp.i
+
+396.s: 396.cpp.s
+
+.PHONY : 396.s
+
+# target to generate assembly for a file
+396.cpp.s:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/396.cpp.s
+.PHONY : 396.cpp.s
+
 456.obj: 456.cpp.obj
 
 .PHONY : 456.obj
@@ -320,6 +401,12 @@ help:
 	@echo ... leetcode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... 126.obj
+	@echo ... 126.i
+	@echo ... 126.s
+	@echo ... 15.obj
+	@echo ... 15.i
+	@echo ... 15.s
 	@echo ... 229.obj
 	@echo ... 229.i
 	@echo ... 229.s
@@ -335,6 +422,9 @@ help:
 	@echo ... 388.obj
 	@echo ... 388.i
 	@echo ... 388.s
+	@echo ... 396.obj
+	@echo ... 396.i
+	@echo ... 396.s
 	@echo ... 456.obj
 	@echo ... 456.i
 	@echo ... 456.s

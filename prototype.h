@@ -7,6 +7,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <unordered_set>
 #include <algorithm>
 
 using namespace std;
@@ -23,5 +24,7 @@ int longestIncreasingPath(vector<vector<int>>& matrix);  //329
 int nthUglyNumber(int n);   //264
 int nthUglyNumber_opt(int n);   //264
 vector<int> majorityElement(vector<int>& nums); //Majority Element II
+int maxRotateFunction(vector<int>& A);  //396
+vector<vector<int>> threeSum(vector<int>& nums);    //15
 
 #endif //LEETCODE_PROTOTYPE_H
