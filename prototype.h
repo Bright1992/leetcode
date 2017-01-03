@@ -16,15 +16,16 @@ string convert(string text, int nRows); //6
 int findRadius(vector<int> &houses, vector<int> &heaters);  //475
 int totalQueens(int n); //52
 int guessNumber(int n); //374
-bool find132pattern(vector<int>& nums);  //456
+bool find132pattern(vector<int> &nums);  //456
 bool find132pattern_opt(vector<int> &nums); //456 opt
 int lengthLongestPath(string input); //388
 int lengthLongestPath_opt(string input);    //388
-int longestIncreasingPath(vector<vector<int>>& matrix);  //329
+int longestIncreasingPath(vector<vector<int>> &matrix);  //329
 int nthUglyNumber(int n);   //264
 int nthUglyNumber_opt(int n);   //264
-vector<int> majorityElement(vector<int>& nums); //Majority Element II
-int maxRotateFunction(vector<int>& A);  //396
-vector<vector<int>> threeSum(vector<int>& nums);    //15
+vector<int> majorityElement(vector<int> &nums); //Majority Element II
+int maxRotateFunction(vector<int> &A);  //396
+vector<vector<int>> threeSum(vector<int> &nums);    //15
+vector<vector<string>> findLadders(string beginWord, string endWord, unordered_set<string> &wordList);  //126
 
 #endif //LEETCODE_PROTOTYPE_H

@@ -14,5 +14,8 @@ int main() {
     vector<int> nums={-1, 0, 1, 2, -1, -4};
     cout<<maxRotateFunction(nums)<<endl;
     threeSum(nums);
+    unordered_set<string> us({"ted","tex","red","tax","tad","den","rex","pee"});
+//    us.insert("asdf");
+    findLadders("red","tax",us);
     return 0;
 }
