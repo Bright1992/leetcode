@@ -27,5 +27,6 @@ vector<int> majorityElement(vector<int> &nums); //Majority Element II
 int maxRotateFunction(vector<int> &A);  //396
 vector<vector<int>> threeSum(vector<int> &nums);    //15
 vector<vector<string>> findLadders(string beginWord, string endWord, unordered_set<string> &wordList);  //126
+vector<vector<string> > findLadders_opt(string beginWord, string endWord, unordered_set<string> &dict); //126
 
 #endif //LEETCODE_PROTOTYPE_H
